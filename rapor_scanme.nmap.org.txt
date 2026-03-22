@@ -1,0 +1,7 @@
+--- SİBER İSTİHBARAT RAPORU ---
+Hedef: scanme.nmap.org (45.33.32.156)
+Tarih: 2026-03-22 02:38:59
+----------------------------------------
+[+] Port 21 AÇIK | Kimlik: (Güvenlik Duvarı Engeli)
+[+] Port 22 AÇIK | Kimlik: SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13
+Protocol mismatch.
