@@ -15,3 +15,16 @@ Kızıl Göz, Python ile geliştirilmiş, çok iş parçacıklı (multithreaded)
 2. Terminalden taramayı başlatın:
    ```bash
    python network_analyzer.py scanme.nmap.org -p 1000
+## 📸 Ekran Görüntüleri
+
+### 🖥️ Profesyonel HTML Raporu
+[  <img width="1909" height="969" alt="HTML RAPORU" src="https://github.com/user-attachments/assets/2eb0edf2-fc63-49ee-8202-fb881240b5ed" />
+    ]
+
+### 📲 Telegram Bildirim Sistemi
+[ ![kızılgöz screenshot telegram](https://github.com/user-attachments/assets/6e3777c5-ebd1-4b2a-858d-53948a981aec)
+     ]
+
+### ⚙️ Otonom Terminal Akışı
+[    <img width="1917" height="1006" alt="Otonom terminal akışı" src="https://github.com/user-attachments/assets/f2e06066-ef30-414b-834b-a57e46028f63" />
+  ]
