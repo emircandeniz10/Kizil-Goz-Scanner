@@ -8,8 +8,8 @@ import requests
 # --- 🛰️ İSTİHBARAT MERKEZİ (TELEGRAM) ---
 def istihbarat_gonder(mesaj):
     # Senin mühürlü şifrelerin
-    TOKEN = "8718893664:AAHwp6-GakMEOkC1RfGJpPJMbYhQbPec8rI"
-    CHAT_ID = "1814688893"
+    TOKEN = "TELEGRAM_TOKEN_BURAYA_YAZILACAK"
+    CHAT_ID = "BURAYA_KENDI_TELEGRAM_ID_NIZI_YAZIN"
     
     try:
         send_url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
