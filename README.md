@@ -8,6 +8,7 @@ Kızıl Göz, Python ile geliştirilmiş, çok iş parçacıklı (multithreaded)
 * **SQL Veritabanı Entegrasyonu:** Tüm bulguları `siber_istihbarat.db` içine yapılandırılmış şekilde kaydeder.
 * **Karanlık Web Paneli:** SQL verilerini kullanarak Matrix temalı HTML raporları üretir.
 * **CLI Desteği:** Tamamen terminal üzerinden parametrelerle yönetilebilir.
+* **📲 Telegram Bot Entegrasyonu:** Açık port tespit edildiğinde anlık bildirim gönderir ve operasyon sonunda detaylı raporu dosya olarak cebinize fırlatır.
 
 ## 🛠️ Kurulum ve Kullanım
 1. Projeyi klonlayın.
