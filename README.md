@@ -13,4 +13,4 @@ Kızıl Göz, Python ile geliştirilmiş, çok iş parçacıklı (multithreaded)
 1. Projeyi klonlayın.
 2. Terminalden taramayı başlatın:
    ```bash
-   python tarayici.py scanme.nmap.org -p 1000
+   python network_analyzer.py scanme.nmap.org -p 1000
